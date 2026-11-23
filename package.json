@@ -1,0 +1,24 @@
+{
+  "name": "learnplaywright_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshmittal587/LearnPlaywright_Practice.git"
+  },
+  "keywords": [],
+  "author": "Harsh Mittal",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/harshmittal587/LearnPlaywright_Practice/issues"
+  },
+  "homepage": "https://github.com/harshmittal587/LearnPlaywright_Practice#readme",
+  "dependencies": {
+    "prompt-sync": "4.2.0"
+  }
+}
