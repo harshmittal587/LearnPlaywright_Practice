@@ -1,5 +1,5 @@
-let age =  "pramod"; // String literal.
-let age2 =  'pramod'; 
+let age =  "Harsh"; // String literal.
+let age2 =  'Harsh'; 
 
 let isStudent = true;
  // This is a boolean literal assigned to the variable 'isStudent'.

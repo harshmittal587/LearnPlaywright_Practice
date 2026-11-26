@@ -7,13 +7,13 @@ for (let somya = 1; somya <= 10; somya++) {
 //     console.log(_1);
 // }
 
-// for (let pramod = 0; pramod > 1; pramod++) {
+// for (let harsh = 0; harsh > 1; harsh++) {
 //     console.log(pramod);
 // }
 
 
-// for (let pramod = 0; ; pramod++) {
-//     console.log(pramod);
+// for (let harsh = 0; ; harsh++) {
+//     console.log(harsh);
 // }
 
 

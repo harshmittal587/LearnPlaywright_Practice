@@ -11,11 +11,11 @@ var ab123 = 23;
 // var 45 = 34; Not a correct identifier
 var _ = 10;
 
-var Name = "pramod";
+var Name = "harsh";
 var name = "Amit";
 
-var pramod_dutta = "hello";
-var pramod$dutta = "hello";
-var pramodu1232 = "hello";
+var harsh_mittal = "hello";
+var harsh$mittal = "hello";
+var harsh1232 = "hello";
 
-// var pramod dutta = "hello";
+// var harsh mittal = "hello";
